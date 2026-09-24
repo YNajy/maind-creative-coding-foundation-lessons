@@ -6,6 +6,6 @@ Examples seen during lessons
 
 Topics:
 
--HTML
--CSS
--JS
+- HTML
+- CSS
+- JS
